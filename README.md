@@ -14,6 +14,3 @@ Midterm
 * [ ] Write some wiki page about this repository
 
 * [ ] Open, refer, close issues, milestones and projects# hu-oss-sw-2018-midterm
-
-
-
