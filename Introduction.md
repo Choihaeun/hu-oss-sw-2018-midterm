@@ -14,7 +14,5 @@ Hello. My name is ha eun.
 * None
 
 * Galtron
-   
-
-
+  
 
