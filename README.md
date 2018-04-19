@@ -9,8 +9,8 @@ Midterm
 ## TODO
 
 
-* [] Add introductory text file about myself
+* [ ] Add introductory text file about myself
 
-* [] Write some wiki page about this repository
+* [ ] Write some wiki page about this repository
 
-* [] Open, refer, close issues, milestones and projects# hu-oss-sw-2018-midterm
+* [ ] Open, refer, close issues, milestones and projects# hu-oss-sw-2018-midterm
